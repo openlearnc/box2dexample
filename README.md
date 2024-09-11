@@ -1,3 +1,4 @@
+![](https://github.com/openlearnc/box2dexample/blob/main/IMG_20240911_145053.png)
 # box2dexample
 box2d、blend2d、sdl2  
 This is a Box2D example project that is built using CMake. Due to the differences in operating systems, CPU architecture, and platform, it is recommended that you first compile the Blend2D static library and Box2D static library that can be used on your own platform, replace the header files in the include directory and the static library in the static directory of this project, and then try to run it. If you want to use dynamic libraries, you need to remove the static directory and modify the CMake file.If you want to learn more,you can see my blog,openlearnc.cc  
